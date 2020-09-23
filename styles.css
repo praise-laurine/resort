@@ -57,6 +57,19 @@ h1{
   margin: 40px auto;
 
 }
+.text form , input[type="button" ]{
+  background-color: black;
+  padding: 10px;
+  color: white;
+  margin: -14px auto;
+  padding-left: 50px;
+  padding-right: 50px;
+  text-align: center;
+}
+ form , input[type="button" ]:hover{
+  background-color: green;
+}
+
 
 
 

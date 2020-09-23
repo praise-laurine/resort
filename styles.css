@@ -57,6 +57,14 @@ h1{
   margin: 40px auto;
 
 }
+p{
+  text-align: justify;
+  color: darkgray;
+  font-weight: normal;
+  padding: 10px;
+}
+
+
 .text form , input[type="button" ]{
   background-color: black;
   padding: 10px;
